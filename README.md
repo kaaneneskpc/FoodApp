@@ -27,3 +27,11 @@ Modern Food Recipes App Developed with Kotlin
 </ul>
 
 # Screenshots
+
+# -- Main Screen --
+
+![light_main](https://github.com/kaaneneskpc/FoodApp/assets/32849662/2d947068-6fbf-49be-8a08-4c22a81b05ad)
+![dark_mode_main_screen](https://github.com/kaaneneskpc/FoodApp/assets/32849662/c369b902-ee2d-4e16-9c51-59b55fbe1d05)
+
+
+
