@@ -16,7 +16,7 @@ class RecipesAdapter : RecyclerView.Adapter<RecipesAdapter.MyViewHolder>() {
     class MyViewHolder(private val binding: RecipesRowLayoutBinding) :
         RecyclerView.ViewHolder(binding.root) {
 
-        fun bind(result: Result?){
+        fun bind(result: Result?) {
             binding.result = result
             binding.executePendingBindings()
         }

@@ -7,7 +7,6 @@ import androidx.databinding.BindingAdapter
 import com.example.foodyapp.core.database.entities.FoodJokeEntity
 import com.example.foodyapp.core.model.FoodJoke
 import com.example.foodyapp.utils.NetworkResult
-import com.example.foodyapp.utils.extensions.gone
 import com.example.foodyapp.utils.extensions.invisible
 import com.example.foodyapp.utils.extensions.visible
 import com.google.android.material.card.MaterialCardView

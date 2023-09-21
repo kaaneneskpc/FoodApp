@@ -16,7 +16,6 @@ import com.example.foodyapp.databinding.FragmentOverviewBinding
 import com.example.foodyapp.core.model.Result
 import com.example.foodyapp.utils.Constants.Companion.RECIPE_RESULT_KEY
 import com.example.foodyapp.utils.extensions.parcelable
-import org.jsoup.Jsoup
 
 
 class OverviewFragment : Fragment() {
@@ -31,7 +30,7 @@ class OverviewFragment : Fragment() {
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         binding = DataBindingUtil.inflate(inflater, R.layout.fragment_overview, container, false)
         binding.lifecycleOwner = this
         initView()

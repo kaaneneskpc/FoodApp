@@ -14,15 +14,12 @@ import android.widget.Toast
 import androidx.core.view.MenuHost
 import androidx.core.view.MenuProvider
 import androidx.databinding.DataBindingUtil
-import androidx.fragment.app.viewModels
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.lifecycleScope
 import com.example.foodyapp.R
 import com.example.foodyapp.databinding.FragmentFoodJokeBinding
-import com.example.foodyapp.databinding.FragmentRecipesBinding
 import com.example.foodyapp.ui.viewModels.MainViewModel
-import com.example.foodyapp.ui.viewModels.recipes.RecipesViewModel
 import com.example.foodyapp.utils.Constants.Companion.API_KEY
 import com.example.foodyapp.utils.NetworkResult
 import kotlinx.coroutines.launch
@@ -35,7 +32,7 @@ class FoodJokeFragment : Fragment() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        mainViewModel = ViewModelProvider(requireActivity()).get(MainViewModel::class.java)
+        mainViewModel = ViewModelProvider(requireActivity())[MainViewModel::class.java]
     }
 
     override fun onCreateView(

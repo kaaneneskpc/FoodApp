@@ -1,16 +1,12 @@
 package com.example.foodyapp.adapter.bindingAdapters
 
 import android.view.View
-import android.widget.ImageView
-import android.widget.TextView
 import androidx.core.view.isInvisible
 import androidx.core.view.isVisible
 import androidx.databinding.BindingAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.example.foodyapp.adapter.FavoriteRecipesAdapter
 import com.example.foodyapp.core.database.entities.FavoritesEntity
-import com.example.foodyapp.utils.extensions.invisible
-import com.example.foodyapp.utils.extensions.visible
 
 class FavoriteRecipesBinding {
 

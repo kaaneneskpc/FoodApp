@@ -102,7 +102,7 @@ class FavoriteRecipesAdapter(private val requireActivity: FragmentActivity,
         diffUtilResult.dispatchUpdatesTo(this)
     }
 
-    private fun saveItemStateOnScroll(currentRecipe: FavoritesEntity, holder: MyViewHolder,) {
+    private fun saveItemStateOnScroll(currentRecipe: FavoritesEntity, holder: MyViewHolder) {
         if (selectedRecipes.contains(currentRecipe)) {
             changeRecipeStyle(holder, R.color.cardBackgroundLightColor, R.color.colorPrimary)
         } else {
