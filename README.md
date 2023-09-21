@@ -36,12 +36,12 @@ Modern Food Recipes App Developed with Kotlin
 <li> Filter Meal and Food Type Using Modal Bottom Sheet </li>
 <li> Check Internet Connection and Applied Cache Mechanism(Don't request every time while surfing on the app) </li>
 <li> Search Meal </li>
-  
+<li> ![light_main](https://github.com/kaaneneskpc/FoodApp/assets/32849662/2d947068-6fbf-49be-8a08-4c22a81b05ad)
+![dark_mode_main_screen](https://github.com/kaaneneskpc/FoodApp/assets/32849662/c369b902-ee2d-4e16-9c51-59b55fbe1d05)
+![image](https://github.com/kaaneneskpc/FoodApp/assets/32849662/b144f640-0a49-4197-89c1-de4b89df10c5) </li>  
 </ul>
 
-![light_main](https://github.com/kaaneneskpc/FoodApp/assets/32849662/2d947068-6fbf-49be-8a08-4c22a81b05ad)
-![dark_mode_main_screen](https://github.com/kaaneneskpc/FoodApp/assets/32849662/c369b902-ee2d-4e16-9c51-59b55fbe1d05)
-![image](https://github.com/kaaneneskpc/FoodApp/assets/32849662/b144f640-0a49-4197-89c1-de4b89df10c5)
+
 
 
 
