@@ -42,6 +42,39 @@ Modern Food Recipes App Developed with Kotlin
 ![dark_mode_main_screen](https://github.com/kaaneneskpc/FoodApp/assets/32849662/c369b902-ee2d-4e16-9c51-59b55fbe1d05)
 ![image](https://github.com/kaaneneskpc/FoodApp/assets/32849662/b144f640-0a49-4197-89c1-de4b89df10c5)
 
+# -- Favorites Screen --
+
+<ul align="left">
+<li> Listed User Selected Favorite Recipes </li>
+<li> Delete One or More Favorite Recipes with Using Contextual Mode </li>
+</ul>
+
+![light_favorite](https://github.com/kaaneneskpc/FoodApp/assets/32849662/9a779d9a-34c1-4a77-8cb9-eff65de54a93)
+![dark_mode_favorites](https://github.com/kaaneneskpc/FoodApp/assets/32849662/76bcc9f7-2d75-4eb1-ab6a-b0b859c09b24)
+![contextual_mode](https://github.com/kaaneneskpc/FoodApp/assets/32849662/87d26ca9-6f61-4c81-8b01-1ed7a97e808a)
+
+# -- Detail Screen -- 
+
+<ul align="left">
+<li> Using Detail Selected Recipes with 3 mode (Overview, Ingredient and Instruction) </li>
+<li> Using ViewPager 2 and TabLayout Mediator for change between mode</li>
+<li> Using Motion Layout for smooth appearance </li>
+</ul>
+
+
+![detail_overview](https://github.com/kaaneneskpc/FoodApp/assets/32849662/0ff5cc29-33c1-419e-be80-c9d61b4de083)
+![ingredients](https://github.com/kaaneneskpc/FoodApp/assets/32849662/eb4061ac-c4ec-436e-ad7d-766aef6ca148)
+![instructions](https://github.com/kaaneneskpc/FoodApp/assets/32849662/3304c3c8-0d95-4d8e-af79-7e544e54b337)
+
+# -- Joke Screen --
+
+<ul align="left">
+<li> Show Joke About Recipe </li>
+</ul>
+
+![dark_mode_joke](https://github.com/kaaneneskpc/FoodApp/assets/32849662/240a74b9-9fde-42dd-90dc-ee332102f4c5)
+![light_joke](https://github.com/kaaneneskpc/FoodApp/assets/32849662/9b689f4a-fd42-47d1-a98f-834089d6db84)
+
 
 
 
